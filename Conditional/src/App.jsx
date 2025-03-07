@@ -1,11 +1,14 @@
+import Myimg from "./component/Image"
 import Neww from "./component/new"
+
 
 function App() {
 
 
   return (
     <>
-    <Neww/>
+    <Neww/><br />
+    <Myimg/>
     </>
   )
 }
