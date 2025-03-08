@@ -4,7 +4,7 @@ import p2 from "/p2.png"
 import p3 from "/p3.png"
 import p4 from "/p4.png"
 import p5 from "/p5.png"
-// import './App.css'
+import '../App.css'
 function Myimg(){
     let [ig,setIg] = useState(p1)
     return(
