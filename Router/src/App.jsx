@@ -11,13 +11,15 @@ function App() {
  
   return (
     <>
-    <Navbar/>
+    
     <Routes>
+      <Route path="/" element={<Navbar/>}>
       <Route index element= { <Home/> }/> 
       <Route path="/about" element= { <About/> }/> 
       <Route path="/services" element= { <Services/> }/> 
       <Route path="/help" element= { <Help/> }/> 
       <Route path="/gallery" element= { <Gallery/> }/> 
+      </Route>
     </Routes>
       
     </>
