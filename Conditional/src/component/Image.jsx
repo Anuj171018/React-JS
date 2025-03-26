@@ -10,15 +10,17 @@ function Myimg(){
     return(
         <>
          <section className="sec1">
-            <section>
-                <img src={p2} alt="" width={200} onMouseEnter={()=>setIg(p2)}/>
-                <img src={p3} alt="" width={200} onMouseEnter={()=>setIg(p3)}/>
-                <img src={p4} alt="" width={200} onMouseEnter={()=>setIg(p4)}/>
-                <img src={p5} alt="" width={200} onMouseEnter={()=>setIg(p5)}/>
-            </section>
-            <section>
+            <div>
+                <ul>
+                    <li><img src={p2} alt="" width={200} onMouseEnter={()=>setIg(p2)}/></li>
+                    <li><img src={p3} alt="" width={200} onMouseEnter={()=>setIg(p3)}/></li>
+                    <li><img src={p4} alt="" width={200} onMouseEnter={()=>setIg(p4)}/></li>
+                    <li><img src={p5} alt="" width={200} onMouseEnter={()=>setIg(p5)}/></li>
+                </ul>
+            </div>
+            <div>
             <img src={ig} alt="" height={200} />
-            </section>
+            </div>
          </section>
         </>
     )

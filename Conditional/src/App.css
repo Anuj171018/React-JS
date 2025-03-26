@@ -44,3 +44,6 @@
   display: flex;
   justify-content: space-around;
 }
+.sec1 ul{
+  list-style: none;
+}

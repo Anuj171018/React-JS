@@ -14,7 +14,7 @@ function Neww(){
         <>
         {st ? <h1>Anuj Shrivastava </h1> : ""}
         
-        
+        <br /><br />
 
         <button onClick={()=>setSt(false)}>Hide</button>
         <button onClick={()=>setSt(true)}>Show</button>

@@ -87,7 +87,7 @@ function App() {
     </Form>
 
 
-    <Navbar className="bg-body-tertiary">
+    <Navbar className="bg-body-tertiary" >
         <Container>
           <Navbar.Brand href="#home">Brand link</Navbar.Brand>
         </Container>
