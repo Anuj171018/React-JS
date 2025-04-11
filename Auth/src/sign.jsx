@@ -26,7 +26,7 @@ function Sign(){
             <label htmlFor=""> email</label>
             <input type="text" name="email" onChange={Inputhandle} /><br />
             <label htmlFor=""> Password</label>
-            <input type="text" name="Password" onChange={Inputhandle} /><br />
+            <input type="text" name="password" onChange={Inputhandle} /><br />
 
             <input type="submit" />
         </form>
