@@ -11,6 +11,66 @@
             "age":28,
             "contact":15646,
             "city":"Indore"
+        },
+        {
+            "uname":"Anuj",
+            "age":24,
+            "contact":8516868,
+            "city":"Indore"
+        },
+        {
+            "uname":"Ayush",
+            "age":24,
+            "contact":989324,
+            "city":"Bhopal"
+        },
+        {
+            "uname":"Chanchal",
+            "age":27,
+            "contact":565852,
+            "city":"Pune"
+        },
+        {
+            "uname":"Uday",
+            "age":26,
+            "contact":897854,
+            "city":"Rajgarh"
+        },
+        {
+            "uname":"Himanshu",
+            "age":24,
+            "contact":456687,
+            "city":"Shivpuri"
+        },
+        {
+            "uname":"Shivam",
+            "age":28,
+            "contact":8799455,
+            "city":"Rajgarh"
+        },
+        {
+            "uname":"Harshit",
+            "age":27,
+            "contact":456851,
+            "city":"Jabalpur"
+        },
+        {
+            "uname":"Amisha",
+            "age":23,
+            "contact":1223456,
+            "city":"Bhopal"
+        },
+        {
+            "uname":"Ambreen",
+            "age":26,
+            "contact":9424456,
+            "city":"Kolkata"
+        },
+        {
+            "uname":"Jeeny",
+            "age":25,
+            "contact":45689,
+            "city":"Shivpuri"
         }
     ]
 }
