@@ -12,15 +12,16 @@ function App() {
     <>
     <div style={{display:"flex"}}>
 
-    product.map((e)=>{return <div style={{border:"2px solid black"}}>
+   {
+     product.map((e)=>{return <div style={{border:"2px solid black"}}>
       
       <h1>Product name:{e.pname}</h1>
       <h1>Product price:{e.pprice}</h1>
-      <img src="{e.pimg}" alt="" />
+      <img src={e.pimg} alt="" />
       <button>Add to cart</button>
       
       </div>})
-
+}
     </div>
      
     </>
