@@ -18,7 +18,7 @@
       "uname": "Anuj",
       "age": 24,
       "contact": 8516868,
-      "city": "Indore",
+      "city": "Rajgarh",
       "id": "2b18"
     },
     {
@@ -96,21 +96,14 @@
       "uname": "arpit",
       "age": "54",
       "contact": "78945",
-      "city": "Indore"
+      "city": "bhopal"
     },
     {
       "id": "c251",
       "uname": "Neha",
       "age": "29",
       "contact": "65523",
-      "city": "Gwalior"
-    },
-    {
-      "id": "1aa6",
-      "uname": "Anuj",
-      "age": "25",
-      "contact": "45669",
-      "city": "Bhopal"
+      "city": "Rajgarh"
     }
   ]
 }
